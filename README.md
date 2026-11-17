@@ -18,7 +18,7 @@
 - 🌱 O'rganayapman: **phyton, GitHub, git bash**
 - 💬 Menga yozing: **Python, JavaScript, web dasturlash** haqida
 - 📍 Joylashuv: **Manzil: Farg'ona shahri, Kuvasoy ko'chasi (Ma'rifat MFY hududi)**
-- Telefon raqami:  **+998 78 777 37 77**
+- Telefon raqami:  **+998 78 777 37 77**<br></br>
 -yonalishlari:**9–15 yoshli bolalar uchun robototexnika va dasturlash kurslari (Scratch'dan Python'gacha).**
 ---
 
