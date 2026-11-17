@@ -14,19 +14,11 @@
 
 ### 👨‍💻 Men haqimda
 
-- 🔭 Hozir ustida ishlayapman: **loyiha nomi**
-- 🌱 O'rganayapman: **React, Docker, TypeScript**
+- 🔭 Hozir ustida ishlayapman: **git hub git bash**
+- 🌱 O'rganayapman: **phyton, GitHub, git bash**
 - 💬 Menga yozing: **Python, JavaScript, web dasturlash** haqida
-- 📍 Joylashuv: **Toshkent, O'zbekiston**
-- ⚡ Qiziqarli fakt: **Kod yozmasam, kitob o'qiyman**
-
----
-
-### 🛠 Texnologiyalar
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,html,css,react,nodejs,django,postgres,docker,git,linux,vscode&theme=dark" alt="skills" />
-</p>
-
+- 📍 Joylashuv: **Manzil: Farg'ona shahri, Kuvasoy ko'chasi (Ma'rifat MFY hududi)**
+- Telefon raqami:  **+998 78 777 37 77**
+-yonalishlari:**9–15 yoshli bolalar uchun robototexnika va dasturlash kurslari (Scratch'dan Python'gacha).**
 ---
 
